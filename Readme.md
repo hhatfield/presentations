@@ -1,4 +1,3 @@
-Each presentation contains the following:
-- PDF of slides
-- Apple Keynote presentation
-- Code Samples (if any)
+Introduction to CasperJS
+
+Some code samples taken from official docs
